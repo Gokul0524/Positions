@@ -1,0 +1,72 @@
+*{
+    background-color: black;
+     margin: 0;
+     width: 500px;
+    }
+    #fullpage{
+        width:1000px;
+        height: 1000px;
+        position: relative;
+    }
+    
+    header{
+    
+    padding-bottom: 30px;
+        font-weight: bold;
+        font-weight: 700;
+        font-size: large;
+        letter-spacing: 2px;
+        font-family: system-ui, -apple-system, 'Roboto';
+        background-color: rgb(0, 0, 0);
+        padding: 15px;
+    
+        width: 1517px;
+        height: 20px;
+        border: 2px solid rgb(0, 0, 0);
+        color: white;
+    }img{
+        width: 1550px;
+    }
+    h3{
+    
+        font-size: larger;
+        padding-left: 45px;
+        position: relative;
+        bottom: 5px;
+        
+    }
+    a{
+        margin-bottom: 50px;
+        border: 2px  white;
+        border-radius: 10px;
+        color: rgb(0, 217, 255);
+        margin-left: 15px;
+       padding: 7px;
+        text-decoration: none;
+    }
+    nav{
+    
+        
+        font-size: small;
+        position: relative;
+        left: 65%;
+        bottom: 140%;
+        
+    }
+    
+    h2{
+      
+        letter-spacing: 20px;
+        position: absolute;
+        color: rgb(0, 0, 0);
+        left: 50px;
+        top: 200px;
+           background-color: rgba(255, 0, 0, 0);
+    
+    
+        padding: 0.5rem;
+        text-align: center;
+        font-size: 40px;
+    
+    
+    }
